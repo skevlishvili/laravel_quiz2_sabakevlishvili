@@ -9,6 +9,7 @@
 
 <body>
 
+    <a href="/airports">airports</a>
     <table border="1">
         <tr>
             <th>identification_code</th>
@@ -35,6 +36,7 @@
 
     </table>
 
+    <a href="/flightsInsert">flights insert</a>
 
 </body>
 
